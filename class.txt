@@ -1,7 +1,7 @@
-Crimson
-Orange
+Big Red
+Yellow Red
 Blue
-Cyan
+Light Blue
 Yellow
 Charcoal
 Khaki
@@ -11,3 +11,4 @@ Fuchsia
 Purple
 Brown
 Red
+New Colour
